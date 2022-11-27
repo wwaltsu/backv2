@@ -6,12 +6,13 @@ const cors = require('cors');
 
 const { parse } = require('rss-to-json');
 
-
+console.log("auki")
 
 app.use(cors())
 app.use(express.json())
 
 app.get('/', (request, response) => {
+  console.log("test")
   response.send('Oppari proju')
 })
 
@@ -19,10 +20,10 @@ app.get('/', (request, response) => {
 // ruokalista pitäisi saada rss
 
 
-app.get('/menu', async (request, res) => {
+app.get('/menu', async (request, response) => {
   var rss = await parse(ruuat);
   console.log(rss)
-  res.send(rss)
+  response.send(rss)
 })
 
 const PORT = 3001
