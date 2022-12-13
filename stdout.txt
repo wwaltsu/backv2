@@ -4,4 +4,250 @@
 
 auki
 Server running on port 3001
-test
+{
+  title: 'Roihu',
+  description: 'Roihu',
+  link: 'https://www.compass-group.fi/menuapi/feed/rss/current-week?costNumber=3060&language=fi',
+  image: '',
+  category: [],
+  items: [
+    {
+      id: undefined,
+      title: 'Maanantai, 12-12-2022',
+      description: '<p><strong>Buffet 11.30&euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin &amp; kahvin/teen ja j&auml;lkiruoan)</strong><br />Kasviskroketit (G, ILM, L, M, Veg, VS) Kaurajogurtti-rakuunakastike (A, L, M, kasvis)<br />Kana Kiova (A, L, VS) Limemajoneesi (A, G, L, M)<br />Chili Con Carne jauhelihasta (G, L, M)<br /><strong>Lisuke</strong><br />Yrttipaahdetut perunat (G, ILM, L, M)<br />H&ouml;yrytetty riisi (G, L, M, kasvis)<br /><strong>Keittolounas 9,30 &euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin sek&auml; kahvin/teen ja j&auml;lkiruoan)</strong><br />Maa-artisokkakeitto (G, L, M, VEG) Tryffeli&ouml;ljy (A)<br /><strong>J&auml;lkiruoka</strong><br />Karamellirahka (A, G, L, M)</p>',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936850415,
+      created: 1670936850415,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    },
+    {
+      id: undefined,
+      title: 'Tiistai, 13-12-2022',
+      description: '<p><strong>Buffet 11.30&euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin &amp; kahvin/teen ja j&auml;lkiruoan)</strong><br />Indonesialaista kasviskastiketta ( A, G, L, M, Veg)&nbsp;</p>\n' +
+        '<p>Chimichurri broileria (G, L, M ,Veg, VS)&nbsp;</p>\n' +
+        '<p>Porsaan grillipihvi (* G, L, M) Bearnaisekastiketta (A,G)&nbsp;</p>\n' +
+        '<p><strong>Lisuke</strong><br />H&ouml;yrytetty&auml; riisi&auml; ( G, L , M, Veg)</p>\n' +
+        '<p>Paahdettua perunaa ( *, G, ILM, L, M, Veg)</p>\n' +
+        '<p>Uunissa paahdettuja juureksia ( G, L, M, Veg)<br /><strong>Keittolounas 9,30 &euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin sek&auml; kahvin/teen ja j&auml;lkiruoan)</strong><br />Maustettua linssisosekeittoa ( A, G, ILM, L, M, Veg, VS)</p>\n' +
+        '<p>Kev&auml;tsipulia (G, L, M, Veg) Fetajuustoa (A, G, VL)<br /><strong>J&auml;lkiruoka</strong></p>\n' +
+        '<p>Tuorejuusto-Vaniljavaahtoa (A, G, L)</p>',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936850415,
+      created: 1670936850415,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    },
+    {
+      id: undefined,
+      title: 'Keskiviikko, 14-12-2022',
+      description: '<p>JOULULOUNAS</p>\n<p>&nbsp;</p>\n<p>Tervetuloa!</p>\n<p>&nbsp;</p>',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936850415,
+      created: 1670936850415,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    },
+    {
+      id: undefined,
+      title: 'Torstai, 15-12-2022',
+      description: '<p><strong>Buffet 11.30&euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin &amp; kahvin/teen ja j&auml;lkiruoan)</strong><br />Hot Dog falafelilla (A, Veg) tsatsikia (A)&nbsp;</p>\n' +
+        '<p>Pulled chicken- hot dog (A, L)</p>\n' +
+        '<p>Vorschmack (A, L, M, VS)&nbsp;</p>\n' +
+        '<p><strong>Lisuke</strong><br />Ranskalaisia perunoita (G, ILM, L, M, Veg)&nbsp;</p>\n' +
+        '<p>Perunasosetta (*, A, G, ILM, L)&nbsp;</p>\n' +
+        '<p>Timjamipaahdettua lanttua (G, L, M, Veg)<br /><strong>Keittolounas 9,30 &euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin sek&auml; kahvin/teen ja j&auml;lkiruoan)</strong></p>\n' +
+        '<p>Hernekeittoa ( A, ILM, L, M, Veg) Pekonia (G, L, M)&nbsp;</p>\n' +
+        '<p><strong>J&auml;lkiruoka</strong></p>\n' +
+        '<p>Ohukaisia (A) Mansikkahilloa (G, L, M , Veg) Kermavaahtoa (A, G, L)</p>',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936850415,
+      created: 1670936850415,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    },
+    {
+      id: undefined,
+      title: 'Perjantai, 16-12-2022',
+      description: '<p><strong>Buffet 11.30&euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin &amp; kahvin/teen ja j&auml;lkiruoan)</strong><br />Bataatti-koookoskermacurrya ( A, G, ILM, L, M, Veg, VS)&nbsp;</p>\n' +
+        '<p>Kalkkunaleikkeit&auml; ( A, L, M) Sitruunamajoneesia (A, G, L, M, Veg)&nbsp;</p>\n' +
+        '<p>Paahdettuja chorizopy&ouml;ryk&ouml;it&auml; ( G, L, M, VS) Tomaattikastiketta (*A, G, ILM, L)&nbsp;</p>\n' +
+        '<p><strong>Lisuke</strong></p>\n' +
+        '<p>Pinaattiriisi&auml; ( G, L, M, Veg, VS)</p>\n' +
+        '<p>Minttulohkoperunoita (G, ILM, L, M, Veg)&nbsp;</p>\n' +
+        '<p>Paistettua kaalia ja inkiv&auml;&auml;ri&auml; ( G, L, M, Veg)<br /><strong>Keittolounas 9,30 &euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin sek&auml; kahvin/teen ja j&auml;lkiruoan)</strong></p>\n' +
+        '<p>Punajuurisosekeittoa (* A, G, ILM, L) Rosamriini-vuohenjuustokreemi (A)<br /><strong>J&auml;lkiruoka</strong></p>\n' +
+        '<p>Perjantain pulla (A, L, M)</p>',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936850415,
+      created: 1670936850415,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    },
+    {
+      id: undefined,
+      title: 'Lauantai, 17-12-2022',
+      description: '',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936850416,
+      created: 1670936850416,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    },
+    {
+      id: undefined,
+      title: 'Sunnuntai, 18-12-2022',
+      description: '',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936850416,
+      created: 1670936850416,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    }
+  ]
+}
+{
+  title: 'Roihu',
+  description: 'Roihu',
+  link: 'https://www.compass-group.fi/menuapi/feed/rss/current-week?costNumber=3060&language=fi',
+  image: '',
+  category: [],
+  items: [
+    {
+      id: undefined,
+      title: 'Maanantai, 12-12-2022',
+      description: '<p><strong>Buffet 11.30&euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin &amp; kahvin/teen ja j&auml;lkiruoan)</strong><br />Kasviskroketit (G, ILM, L, M, Veg, VS) Kaurajogurtti-rakuunakastike (A, L, M, kasvis)<br />Kana Kiova (A, L, VS) Limemajoneesi (A, G, L, M)<br />Chili Con Carne jauhelihasta (G, L, M)<br /><strong>Lisuke</strong><br />Yrttipaahdetut perunat (G, ILM, L, M)<br />H&ouml;yrytetty riisi (G, L, M, kasvis)<br /><strong>Keittolounas 9,30 &euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin sek&auml; kahvin/teen ja j&auml;lkiruoan)</strong><br />Maa-artisokkakeitto (G, L, M, VEG) Tryffeli&ouml;ljy (A)<br /><strong>J&auml;lkiruoka</strong><br />Karamellirahka (A, G, L, M)</p>',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936856705,
+      created: 1670936856705,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    },
+    {
+      id: undefined,
+      title: 'Tiistai, 13-12-2022',
+      description: '<p><strong>Buffet 11.30&euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin &amp; kahvin/teen ja j&auml;lkiruoan)</strong><br />Indonesialaista kasviskastiketta ( A, G, L, M, Veg)&nbsp;</p>\n' +
+        '<p>Chimichurri broileria (G, L, M ,Veg, VS)&nbsp;</p>\n' +
+        '<p>Porsaan grillipihvi (* G, L, M) Bearnaisekastiketta (A,G)&nbsp;</p>\n' +
+        '<p><strong>Lisuke</strong><br />H&ouml;yrytetty&auml; riisi&auml; ( G, L , M, Veg)</p>\n' +
+        '<p>Paahdettua perunaa ( *, G, ILM, L, M, Veg)</p>\n' +
+        '<p>Uunissa paahdettuja juureksia ( G, L, M, Veg)<br /><strong>Keittolounas 9,30 &euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin sek&auml; kahvin/teen ja j&auml;lkiruoan)</strong><br />Maustettua linssisosekeittoa ( A, G, ILM, L, M, Veg, VS)</p>\n' +
+        '<p>Kev&auml;tsipulia (G, L, M, Veg) Fetajuustoa (A, G, VL)<br /><strong>J&auml;lkiruoka</strong></p>\n' +
+        '<p>Tuorejuusto-Vaniljavaahtoa (A, G, L)</p>',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936856705,
+      created: 1670936856705,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    },
+    {
+      id: undefined,
+      title: 'Keskiviikko, 14-12-2022',
+      description: '<p>JOULULOUNAS</p>\n<p>&nbsp;</p>\n<p>Tervetuloa!</p>\n<p>&nbsp;</p>',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936856705,
+      created: 1670936856705,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    },
+    {
+      id: undefined,
+      title: 'Torstai, 15-12-2022',
+      description: '<p><strong>Buffet 11.30&euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin &amp; kahvin/teen ja j&auml;lkiruoan)</strong><br />Hot Dog falafelilla (A, Veg) tsatsikia (A)&nbsp;</p>\n' +
+        '<p>Pulled chicken- hot dog (A, L)</p>\n' +
+        '<p>Vorschmack (A, L, M, VS)&nbsp;</p>\n' +
+        '<p><strong>Lisuke</strong><br />Ranskalaisia perunoita (G, ILM, L, M, Veg)&nbsp;</p>\n' +
+        '<p>Perunasosetta (*, A, G, ILM, L)&nbsp;</p>\n' +
+        '<p>Timjamipaahdettua lanttua (G, L, M, Veg)<br /><strong>Keittolounas 9,30 &euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin sek&auml; kahvin/teen ja j&auml;lkiruoan)</strong></p>\n' +
+        '<p>Hernekeittoa ( A, ILM, L, M, Veg) Pekonia (G, L, M)&nbsp;</p>\n' +
+        '<p><strong>J&auml;lkiruoka</strong></p>\n' +
+        '<p>Ohukaisia (A) Mansikkahilloa (G, L, M , Veg) Kermavaahtoa (A, G, L)</p>',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936856705,
+      created: 1670936856705,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    },
+    {
+      id: undefined,
+      title: 'Perjantai, 16-12-2022',
+      description: '<p><strong>Buffet 11.30&euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin &amp; kahvin/teen ja j&auml;lkiruoan)</strong><br />Bataatti-koookoskermacurrya ( A, G, ILM, L, M, Veg, VS)&nbsp;</p>\n' +
+        '<p>Kalkkunaleikkeit&auml; ( A, L, M) Sitruunamajoneesia (A, G, L, M, Veg)&nbsp;</p>\n' +
+        '<p>Paahdettuja chorizopy&ouml;ryk&ouml;it&auml; ( G, L, M, VS) Tomaattikastiketta (*A, G, ILM, L)&nbsp;</p>\n' +
+        '<p><strong>Lisuke</strong></p>\n' +
+        '<p>Pinaattiriisi&auml; ( G, L, M, Veg, VS)</p>\n' +
+        '<p>Minttulohkoperunoita (G, ILM, L, M, Veg)&nbsp;</p>\n' +
+        '<p>Paistettua kaalia ja inkiv&auml;&auml;ri&auml; ( G, L, M, Veg)<br /><strong>Keittolounas 9,30 &euro; (sis. leip&auml;p&ouml;yd&auml;n, salaattibuffetin sek&auml; kahvin/teen ja j&auml;lkiruoan)</strong></p>\n' +
+        '<p>Punajuurisosekeittoa (* A, G, ILM, L) Rosamriini-vuohenjuustokreemi (A)<br /><strong>J&auml;lkiruoka</strong></p>\n' +
+        '<p>Perjantain pulla (A, L, M)</p>',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936856705,
+      created: 1670936856705,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    },
+    {
+      id: undefined,
+      title: 'Lauantai, 17-12-2022',
+      description: '',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936856705,
+      created: 1670936856705,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    },
+    {
+      id: undefined,
+      title: 'Sunnuntai, 18-12-2022',
+      description: '',
+      link: 'https://www.compass-group.fi/ravintolat-ja-ruokalistat/muut-avoimet-ravintolat/kaupungit/helsinki/roihu/',
+      author: undefined,
+      published: 1670936856705,
+      created: 1670936856705,
+      category: [],
+      content: undefined,
+      enclosures: [],
+      media: {}
+    }
+  ]
+}
+Terminate batch job (Y/N)? 

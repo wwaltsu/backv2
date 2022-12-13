@@ -1,4 +1,4 @@
-const ruuat = 'https://www.foodandco.fi/modules/MenuRss/MenuRss/CurrentWeek?costNumber=3060&language=fi' 
+const ruuat = 'https://www.compass-group.fi/menuapi/feed/rss/current-week?costNumber=3060&language=fi' 
 const express = require('express')
 const app = express()
 const cors = require('cors');
